@@ -1,10 +1,5 @@
-.. Template documentation master file, created by
-   sphinx-quickstart on Mon Jan  6 15:52:53 2025.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
-Microservices Documentation
-===========================
+Overview
+========
 
 .. note:: Replace placeholders with your microservice's details.
 
@@ -43,14 +38,3 @@ Next Steps
 .. - Learn how to set up the microservice in :doc:`get_started`.
 .. - Explore the API endpoints in :doc:`api_reference`.
 .. - Configure the microservice in :doc:`configuration`.
-
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
-      getting-started
-      configuration
-      api-reference
-      integration
-
