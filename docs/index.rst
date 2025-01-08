@@ -14,4 +14,9 @@ documentation for details.
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   introduction
+   getting-started
+   configuration
+   api-reference
+   integration
 
